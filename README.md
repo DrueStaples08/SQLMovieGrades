@@ -19,7 +19,7 @@ insert_db(halloween)
 ### Grade movies
 grade_movie(usergrade('AntiTrust', 's'))
 
-grade_movie(usergrade('Halloween', 'd'))
+grade_movie(usergrade('Halloween', 'B'))
 
 ### View content from database
 conn, cursor = db_connection()
