@@ -1,5 +1,5 @@
 # SQLMovieGrades
-Includes a database program for grading movies and an easy go-to reference script for Sqlite3.
+## Includes a database program for grading movies and an easy go-to reference script for Sqlite3.
 
 ### Instatiate movie classes - attributes include title, grade, points, votes, and the mean score
 antitrust = MovieGrade('AntiTrust', 'X', 0, 0, 0)
